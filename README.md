@@ -20,7 +20,7 @@ PlayAndPaws links out to a cute kitty cat video file ripped from the internet. Y
 
 ## Credits
 
-*PlayAndPaws* runs almost completely on the [tv)S.NativePlayer](https://github.com/martinnormark/tvOS.NativePlayer) project by [Martin H. Normak](https://github.com/martinnormark)
+*PlayAndPaws* runs almost completely on the [tvOS.NativePlayer](https://github.com/martinnormark/tvOS.NativePlayer) project by [Martin H. Normak](https://github.com/martinnormark)
 
 
 ## Contact
