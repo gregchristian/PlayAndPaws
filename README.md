@@ -1,6 +1,6 @@
 ## About
 
-**PlayAndPaws** is an om-demand video player for tvOS made especially for precious cat videos.
+**PlayAndPaws** is an on-demand video player for tvOS made especially for precious cat videos.
 
 <img src="Screenshots/PlayAndPaws.png" width="480" height="320">
 
@@ -9,13 +9,13 @@ Are you enjoying PlayAndPaws? You can say thank you with [a tweet](https://twitt
 
 ## Requirements
 
-- Runs on iOS 7.0 and later
+- Runs on iOS 7.0 and later (I think)
 - Runs on OS X 10.9 and later
 
 
 ## Warning
 
-PlayAndPaws links out to a cute kitty cat video file ripped from the internet. You must obtain rights or record your own adorbale cat video before submitting and/or making a single dime. Like ever.
+PlayAndPaws links out to a cute kitty cat video file ripped from the internet. You must obtain rights or record your own adorabale cat video before submitting and/or making a single dime. Like ever.
 
 
 ## Credits
@@ -27,10 +27,10 @@ PlayAndPaws links out to a cute kitty cat video file ripped from the internet. Y
 
 Greg Christian
 
-- http://twitter.com/grgchristian
+- http://twitter.com/gregchristian
 - http://dribbble.com/gregchristian
 
 
 ## License
 
-XCDYouTubeKit is available under the MIT license. See the [LICENSE](LICENSE) file for more information.
+PlayAndPaws is available under the Creative Commons License. See the [LICENSE](LICENSE) file for more information.
