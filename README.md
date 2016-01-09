@@ -2,7 +2,7 @@
 
 **PlayAndPaws** is an om-demand video player for tvOS made especially for precious cat videos.
 
-<img src="PlayAndPaws.png" width="480" height="320">
+<img src="Screenshots/PlayAndPaws.png" width="480" height="320">
 
 Are you enjoying PlayAndPaws? You can say thank you with [a tweet](https://twitter.com/intent/tweet?text=Hey%20@gregchristian%20thank%20you%20for%20your%20tvOS%20on-demand%20cat%20player.%20#meow%eE)
 
